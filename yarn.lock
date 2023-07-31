@@ -1033,9 +1033,9 @@ lru-cache@2:
   integrity sha1-bUUk6LlV+V1PW1iFHOId1y+06VI=
 
 "marked@>= 0.2.7":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-0.7.0.tgz#b64201f051d271b1edc10a04d1ae9b74bb8e5c0e"
-  integrity sha512-c+yYdCZJQrsRjTPhUx7VKkApw9bwDkNbHUKo1ovgcfDjb2kc8rLuRbIFyXL5WOEUwzSSKo3IXpph2K6DqB/KZg==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-5.1.2.tgz#62b5ccfc75adf72ca3b64b2879b551d89e77677f"
+  integrity sha512-ahRPGXJpjMjwSOlBoTMZAK7ATXkli5qCPxZ21TG44rx1KEo44bii4ekgTDQPNRQ4Kh7JMb9Ub1PVk1NxRSsorg==
 
 maxmin@^0.2.0:
   version "0.2.2"
